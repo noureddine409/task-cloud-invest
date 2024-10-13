@@ -1,0 +1,18 @@
+/* Add this to your CSS file */
+ion-card {
+    padding: 16px; /* Adjust padding as needed */
+  }
+  
+  ion-item {
+    margin-bottom: 12px; /* Space between items */
+    --min-height: 60px; /* Ensure all items have the same height */
+  }
+  
+  ion-icon {
+    margin-right: 8px; /* Space between icon and label */
+  }
+  
+  ion-chip {
+    margin-right: 4px; /* Space between chips */
+  }
+  
